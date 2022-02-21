@@ -1,16 +1,6 @@
-[*please edit this file according to the needs of your project*]
-
 # Welcome to albert_demo
 
-[*please summarise what your project provides to users*]
-
-## Installation
-
-[*indicate how users can install your project*]
-
-## Getting started
-
-[*indicate how users can use your project*]
+This repo demonstrates how an event processing policy can be implemented on an application class.
 
 ## Developers
 
